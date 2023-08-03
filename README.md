@@ -2,14 +2,6 @@
 
 <div align="center">
 
-<a href="https://github.com/abhisheknaiidu/dsa/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/dsa" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/dsa/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/dsa" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/dsa"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/dsa?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/dsa?color=2b9348" alt="License Badge"/></a>
-<a href="https://leetcode.com/abhisheknaiidu/"><img src="https://lc.coding.gs/v1/solved/abhisheknaiidu.svg?color=red&logo=leetcode"></a>
-<a href="" ><img src="https://lc.coding.gs/v1/accepted-rate/abhisheknaiidu.svg?logo=leetcode"></a>
-<a href="https://github.com/abhisheknaiidu/dsa"><img src="https://img.shields.io/badge/language-CPP-green.svg"></a>
-
 </div>
 
 ## Arrays
